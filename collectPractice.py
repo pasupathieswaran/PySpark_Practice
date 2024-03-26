@@ -14,4 +14,3 @@ print(dataRows[0][1])
 
 # COMMAND ----------
 
-

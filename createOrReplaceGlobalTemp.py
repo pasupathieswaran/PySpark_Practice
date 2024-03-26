@@ -32,4 +32,3 @@ spark.catalog.listTables("default")
 
 # COMMAND ----------
 
-

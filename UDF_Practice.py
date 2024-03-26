@@ -43,4 +43,3 @@ spark.udf.register(name="TotalSalary",f= totalSalary1,returnType = IntegerType()
 
 # COMMAND ----------
 
-

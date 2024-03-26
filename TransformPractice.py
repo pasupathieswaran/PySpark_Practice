@@ -29,4 +29,3 @@ dfs.select("*",transform("skills",lambda x: upper(x)).alias("UpperCase Skills"))
 
 # COMMAND ----------
 
-

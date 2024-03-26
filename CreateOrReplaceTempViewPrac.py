@@ -8,4 +8,3 @@ spark.catalog.listTables("global_temp")
 
 # COMMAND ----------
 
-
